@@ -1,2 +1,14 @@
-# da-baby-steps
-project file
+# project Objectives
+
+
+-----
+# Data Sourcing
+
+
+-----
+# Data Cleaning
+
+
+
+-----
+# Analysis
